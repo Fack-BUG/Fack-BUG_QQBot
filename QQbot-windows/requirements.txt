@@ -1,3 +1,0 @@
-aiohttp==3.8.1
-psutil==5.8.0
-pyyaml==5.4.1  # 根据需要引入YamlUtil，通常是pyyaml
