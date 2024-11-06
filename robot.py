@@ -36,7 +36,7 @@ if not API_KEY:
 
 logger.info(f"读取到的API_KEY: {API_KEY}")
 
-WEATHER_API_URL = "https://restapi.amap.com/v3/weather/weatherInfo"
+WEATHER_API_URL = "https://restapi.amap.com/v3/weather/weatherInfo"#该API为高德开放平台提供的天气查询API
 
 # 状态变量
 is_running = True

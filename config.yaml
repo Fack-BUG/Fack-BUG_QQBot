@@ -3,4 +3,5 @@ token:
   token: "fVw67DAZisGpqAdlMHwO7QuqpybHRqXh"
 
 amap:
-  api_key: "3d70d2b6241d32aa5d8c0a2f7a4ab5d1"
+  api_key: "填入你的高德地图API Key"
+  #申请地址为https://lbs.amap.com/（高德开放平台）也可使用其他API接口平台 自行在robot.py文件中第39行修改API-URL
