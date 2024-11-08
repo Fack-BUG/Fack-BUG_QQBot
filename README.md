@@ -1,6 +1,6 @@
-# Binbim-QQbot 项目说明
+# Fack-BUG_QQbot 项目说明
 ## 项目简介
-Binbim-QQbot 是一款基于 Python 语言的 QQ 机器人框架，使用 aiohttp 库实现了 QQ 官方协议的 HTTP API 接口，并使用 psutil 库实现了系统监控功能。
+Fack-BUG_QQbot 是一款基于 Python 语言的 QQ 机器人框架，使用 aiohttp 库实现了 QQ 官方协议的 HTTP API 接口，并使用 psutil 库实现了系统监控功能。
 
 ## 项目特点
 > 轻量化：框架仅依赖 aiohttp、psutil 库，无需安装额外的依赖库，可直接部署运行。
